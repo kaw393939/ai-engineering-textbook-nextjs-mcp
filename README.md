@@ -11,6 +11,7 @@ Use this README as the course introduction and index, then read each chapter in 
 - Why backend enforcement matters more than prompt text alone
 - How to use both unit tests and real-LLM evals
 - How requirements evolve through iterative human direction
+- How to work with AI agents without offloading core human judgment
 
 ## Who Made These Technologies
 
@@ -35,6 +36,7 @@ Students often see AI demos that look impressive but are hard to trust in produc
 - [Chapter 5: Testing and Real-LLM Evals](docs/textbook/05-testing-and-evals.md)
 - [Chapter 6: Prompting, Direction, and Iteration](docs/textbook/06-direction-and-iteration.md)
 - [Chapter 7: Assignment Instructions and Rubric](docs/textbook/07-assignment-and-rubric.md)
+- [Chapter 8: A Direct Note from GPT-5.3-Codex](docs/textbook/08-direct-note-from-gpt-5.3-codex.md)
 
 ## Quick Start
 

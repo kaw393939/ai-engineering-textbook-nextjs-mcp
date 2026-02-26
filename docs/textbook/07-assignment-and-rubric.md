@@ -12,6 +12,7 @@ Build and explain an AI chat app in Next.js that uses MCP tools for arithmetic a
 1. Unit tests for deterministic logic
 1. Real-LLM eval harness with pass/fail output
 1. Short architecture write-up
+1. AI direction log that shows prompt/spec evolution and verification steps
 
 ## Suggested Milestones
 
@@ -28,10 +29,13 @@ Build and explain an AI chat app in Next.js that uses MCP tools for arithmetic a
 - MCP integration quality: 20
 - Testing quality: 20
 - Eval harness quality: 20
-- Documentation and explanation clarity: 15
+- Documentation and explanation clarity: 10
+- Human judgment and AI direction quality: 5
 
 ## Reflection Questions
 
 - What failures were caught by evals but not by unit tests?
 - Where did user direction change architecture decisions?
 - Why is server-side enforcement critical in AI systems?
+- Where did AI speed help you, and where did it risk weakening your own learning?
+- What did you intentionally keep as "human-only" decisions, and why?

@@ -1,3 +1,25 @@
+# AI Engineering Textbook: Next.js and MCP
+
+<!-- portfolio-curation -->
+## Portfolio Overview
+Course-style project for teaching students how to build, evaluate, and improve AI web applications with Next.js and MCP tools.
+
+## What This Demonstrates
+- AI engineering pedagogy
+- applied assignments
+- modern web architecture
+
+## Stack
+TypeScript, Next.js, MCP
+
+## Portfolio Status
+This repository is part of Keith Williams' curated public portfolio. The README has been updated to explain the project purpose, technical focus, and why the work is worth reviewing.
+<!-- /portfolio-curation -->
+
+---
+
+## Original Notes
+
 # IS219 AI Engineering Textbook Project
 
 This repository is a course-style project that teaches students how to build, evaluate, and improve an AI web application with Next.js and MCP tools.
@@ -90,3 +112,4 @@ npm run eval:chat
 ## Teaching Note
 
 This project is intentionally iterative. Students should expect to revise architecture as requirements become stricter. That is not failure; it is professional engineering.
+
